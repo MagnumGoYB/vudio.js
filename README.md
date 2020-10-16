@@ -82,4 +82,4 @@ vudio.setOption({
 });
 ```
 
-在线示例: http://margox.github.io/vudio.js/
+在线示例: https://magnumgoyb.github.io/vudio.js/
